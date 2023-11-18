@@ -5,8 +5,8 @@
 ---
 ## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=karleandrosilva&theme=default&hide_border=true)<br><br>
-<img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karleandrosilva&layout=compact&langs_count=16&theme=default"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=karleandrosilva&theme=transparent&hide_border=false)<br><br>
+<img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karleandrosilva&layout=compact&langs_count=16&theme=transparent"/>
 
 <div style="display: inline_block">
   <img align="center" alt="Karle-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
