@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&random=false&width=535&height=100&lines=hi!+i%C2%B4m+Karle%F0%9F%91%8B;i+am+from+Brazil!+;studying+front-end.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&random=false&width=535&height=100&lines=hi!+i%C2%B4m+Karle%F0%9F%91%8B;i+am+from+Brazil!+;studying+front-end.;oi%2C+sou+o+Karle%F0%9F%91%8B;estudando+front-end.)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=karleandrosilva&icon=5&color=1)](https://visitcount.itsvg.in)
 
