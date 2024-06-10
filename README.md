@@ -4,7 +4,7 @@
 ## 📊 GitHub Stats:
 <div>
   <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=karleandrosilva&theme=transparent&hide_border=false)"><br><br>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karleandrosilva&layout=compact&langs_count=17&theme=transparent">
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karleandrosilva&layout=compact&langs_count=19&theme=transparent">
 </div>
 <br>
 <div style="display: inline_block">
