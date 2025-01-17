@@ -1,9 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=karleandrosilva&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ---
+
 ## 📊 GitHub Stats:
 <div>
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=karleandrosilva&theme=transparent&hide_border=false)"><br><br>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karleandrosilva&layout=compact&langs_count=19&theme=transparent">
 </div>
 <br>
