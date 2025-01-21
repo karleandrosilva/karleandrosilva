@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=karleandrosilva&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ---
 
